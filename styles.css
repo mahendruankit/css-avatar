@@ -38,6 +38,14 @@ body {
   justify-content: space-between;
 }
 
+.brow {
+  width: 105px;
+  height: 45px;
+  border-top: 17px solid hsl(20, 43%, 3%);
+  border-radius: 30% 30% 20% 20%;
+  margin-bottom: 35px;
+}
+
 .eye {
   background-color: white;
   height: 40px;
@@ -89,14 +97,6 @@ body {
   border: 3px solid black;
   border-radius: 20%;
   margin-top: 10px;
-}
-
-.brow {
-  width: 105px;
-  height: 45px;
-  border-top: 17px solid hsl(20, 43%, 3%);
-  border-radius: 30% 30% 20% 20%;
-  margin-bottom: 35px;
 }
 
 .nose {
